@@ -1,6 +1,4 @@
-//:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 //:::::::::::::::::::::::::VECTORS:::::::::::::::::::::::::::::::::
-//:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 //READ MORE AT : https://www.geeksforgeeks.org/vector-in-cpp-stl/
 //READ MORE AT : https://www.cplusplus.com/reference/vector/vector/
